@@ -6,10 +6,10 @@
 
 ## About Me
 
-I'm a passionate technologist with a wide blend of interests spanning **semiconductors**, **supply chain optimization**, and **cybersecurity**. Currently diving deep into the world of **Machine Learning** and **Deep Learning**, I love building innovative solutions.
+I'm a passionate technologist with a wide blend of interests spanning **semiconductors**, **supply chain optimization** and **human resource management**. Currently diving deep into the world of **Machine Learning** and **Deep Learning**, I love building innovative solutions.
 
 - **Research Focus**: LLM Fine-tuning, Knowledge Graph Construction, Computer Vision
-- **Industry Interests**: Semiconductor manufacturing, Supply chain resilience, Cybersecurity frameworks
+- **Industry Interests**: Semiconductor manufacturing, Supply chain resilience
 - **Currently Learning**: Advanced ML/DL techniques, MLOps, and AI Safety
 - **Open to**: Collaborations in AI research, supply chain tech, and security solutions
 
@@ -49,6 +49,12 @@ LLM based system for extracting semantic triplets from text to build knowledge g
 VLM and LLM based video analysis system for monitoring student engagement using Vision-Language Models
 - **Tech Stack**: Computer Vision, VLLM, Deep Learning
 - **Impact**: Automated attention tracking, behavioral analysis
+
+### [PDSGrainChain](https://github.com/RamSundarRadhakrishnan/PDSGrainChain)
+A Foundry-based Solidity project that models an end-to-end grain batch lifecycle for the Public Distribution System (PDS) using an auditable on-chain state machine.
+- **Tech Stack**: Solidity, Foundry
+- **Goal**: To improve traceability, accountability, and tamper-resistance in PDS-style supply chains using smart contracts.
+- *Manuscript currently under internal review*
 
 ### [SFTP File Transfer Tool](https://github.com/RamSundarRadhakrishnan/SFTPFileTransferProgram)
 Efficient file transfer utility with cross-platform capabilities
