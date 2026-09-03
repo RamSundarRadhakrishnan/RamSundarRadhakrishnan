@@ -1,7 +1,7 @@
 # Hi there, I'm Ram Sundar Radhakrishnan 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Supply+Chain+Analyst;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Supply+Chain+Analyst;Generative+AI+Engineer" alt="Typing SVG" />
 </div>
 
 ## About Me
