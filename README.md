@@ -35,10 +35,12 @@ I'm a passionate technologist with a wide blend of interests spanning **semicond
 
 ## Featured Projects
 
-### [LLM Fine-Tuning Experiments](https://github.com/RamSundarRadhakrishnan/LLM-Fine-Tuning-Experiments)
-Comprehensive experiments in fine-tuning Large Language Models and transformer architectures
-- **Tech Stack**: Python, Transformers, PyTorch
-- **Key Features**: Custom training pipelines, model optimization techniques
+### [Developing LLM Based Computer Science Explanation Agents](https://github.com/RamSundarRadhakrishnan/Developing-LLM-Based-Computer-Science-Assistants)
+Capstone Project 1 - BCSE497J, working under Dr. Janaki Meena M at VIT Chennai
+- **Current Scope**: Developing a reusable guardrail framework for programming lab explanation assistants.
+- **Current Progress**: Developed a 3 layer input guardrail and 5 layer output guardrail framework. Prepared datasets from raw conversational logs using local and cloud hosted models. Trained and evaluated multiple encoder-based classifiers (Frozen ModernBERT encoders + trainable NN heads) and LLM-As-A-Judge models (Qwen 3.5 2B and IBM Granite Guardian 3.1 2B) on the prepared datasets.
+- **Future Work**: Utilizing bootstrapping and other techniques for more robust dataset preparation. Deployment of guardrails on the platform, gathering student and educator feedback. Using DPO/RLHF and other similar preference optimization techniques to steer the chat model towards desired output style and behaviour.
+- **Tech Stack**: PyTorch, llama.cpp, ModernBERT, IBM Granite Guardian 3.1 2B + 4.1 8B, OpenAI GPT 6 Luna
 
 ### [Triplet Extraction for Knowledge Graphs](https://github.com/RamSundarRadhakrishnan/TripletExtraction)
 LLM based system for extracting semantic triplets from text to build knowledge graphs
@@ -54,7 +56,11 @@ VLM and LLM based video analysis system for monitoring student engagement using 
 A Foundry-based Solidity project that models an end-to-end grain batch lifecycle for the Public Distribution System (PDS) using an auditable on-chain state machine.
 - **Tech Stack**: Solidity, Foundry
 - **Goal**: To improve traceability, accountability, and tamper-resistance in PDS-style supply chains using smart contracts.
-- *Manuscript currently under internal review*
+
+### [LLM Fine-Tuning Experiments](https://github.com/RamSundarRadhakrishnan/LLM-Fine-Tuning-Experiments)
+Comprehensive experiments in fine-tuning Large Language Models and transformer architectures
+- **Tech Stack**: Python, Transformers, PyTorch
+- **Key Features**: Custom training pipelines, model optimization techniques
 
 ### [SFTP File Transfer Tool](https://github.com/RamSundarRadhakrishnan/SFTPFileTransferProgram)
 Efficient file transfer utility with cross-platform capabilities
